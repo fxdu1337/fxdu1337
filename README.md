@@ -17,8 +17,7 @@ I'm a developer who enjoys working on web projects,
 - Basic Linux and CLI experience
 
 ## Projects
-
-- [mywebsite](https://github.com/fxdu1337/mywebsite) – A personal website built with JavaScript
+None as of right now.
 
 More projects coming soon.
 
